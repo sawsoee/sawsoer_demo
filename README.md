@@ -1,2 +1,2 @@
 # sawsoer_demo
-Author of this repository S_Neesterenko
+Author of this repository S_Nesterenko
