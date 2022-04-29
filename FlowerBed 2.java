@@ -18,6 +18,8 @@ public class FlowerBed {
 
         System.out.println("Good bye 2");
 
+        System.out.println("You are Doodly Rogers");
+
 
 
     }
