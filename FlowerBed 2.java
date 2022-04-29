@@ -14,6 +14,8 @@ public class FlowerBed {
         System.out.println("Perimeter of the flower bed is " + perimeter);
         System.out.println("Area of the flower bed is " + area);
 
+        System.out.println("Good bye");
+
 
 
     }
