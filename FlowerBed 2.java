@@ -16,6 +16,8 @@ public class FlowerBed {
 
         System.out.println("Good bye");
 
+        System.out.println("Good bye 2");
+
 
 
     }
